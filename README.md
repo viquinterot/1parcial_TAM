@@ -68,7 +68,7 @@ Ejecuta el notebook para:
 - Evaluar todos los modelos con validación cruzada externa de 5 folds y exportar resultados.
 
 ```bash
-python parcial_python.py
+Parcial.ipynb
 ```
 
 Al finalizar, encontrarás en `ames_cache_colab/df_final_results_colab.csv` la tabla con:
