@@ -1,4 +1,4 @@
-# Comparación de Regresores sobre el Ames Housing Dataset
+# Comparación de Regresores sobre el Ames Housing Dataset y Desarrollo Teórico
 
 ## Descripción
 Este repositorio contiene el notebook de Colab y los recursos necesarios para comparar el desempeño de nueve regresores solicitados en el punto 2 del parcial de Teoría de Aprendizaje de Máquina sobre el dataset [Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset) utilizando:
@@ -19,6 +19,7 @@ Se incluye Dashboard hecho en streamlit.
 ```
 ├── README.md
 ├── requirements.txt
+├── parcial pcm.pdf       #Desarrollo teórico punto 1.
 ├── AmesHousing.csv              # Datos originales (no versionados)
 ├── Parcial.ipynb           # notebook Colab de análisis (punto 2 y 3 del parcial)
 ├── gp.py
