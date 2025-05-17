@@ -20,14 +20,11 @@ Se incluye Dashboard hecho en streamlit.
 ├── README.md
 ├── requirements.txt
 ├── AmesHousing.csv              # Datos originales (no versionados)
-├── parcial.ipynb            # notebook Colab de análisis (punto 2 y 3 del parcial)
+├── Parcial.ipynb           # notebook Colab de análisis (punto 2 y 3 del parcial)
+├── gp.py
 ├── ames_cache_colab/            # Carpeta de caché de resultados y tablas finales
 │   └── df_final_results_colab.csv
-└── streamlit_dashboard/         # Dashboard Streamlit (punto 3 del parcial)
-    ├── 0_👋_Hello.py
-    └── pages
-        ├── 1_EDA.py
-        └── 2_Model_Comparison.py
+
 ```
 
 ---
